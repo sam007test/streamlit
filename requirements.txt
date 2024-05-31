@@ -72,7 +72,7 @@ parso==0.8.3
 pdfminer.six==20221105
 pefile==2023.2.7
 pickleshare==0.7.5
-Pillow==9.2.0
+Pillow
 platformdirs==3.10.0
 playsound==1.2.2
 prompt-toolkit==3.0.39
