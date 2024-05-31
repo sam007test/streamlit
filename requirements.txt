@@ -1,5 +1,6 @@
-pandasai
+streamlit
 xgboost
+pandasai==2.1
 plotly==5.15.0
 altgraph==0.17.3
 asttokens==2.2.1
