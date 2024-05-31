@@ -1,3 +1,4 @@
+pyyaml
 streamlit
 xgboost
 pandasai==2.1
